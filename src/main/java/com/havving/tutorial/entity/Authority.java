@@ -1,4 +1,4 @@
-package com.havving.jwttutorial.entity;
+package com.havving.tutorial.entity;
 
 import lombok.*;
 

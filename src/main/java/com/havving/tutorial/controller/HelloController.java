@@ -1,4 +1,4 @@
-package com.havving.jwttutorial.controller;
+package com.havving.tutorial.controller;
 
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.GetMapping;

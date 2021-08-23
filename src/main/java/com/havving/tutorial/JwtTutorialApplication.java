@@ -1,4 +1,4 @@
-package com.havving.jwttutorial;
+package com.havving.tutorial;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

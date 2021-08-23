@@ -1,4 +1,4 @@
-package com.havving.jwttutorial;
+package com.havving.tutorial;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

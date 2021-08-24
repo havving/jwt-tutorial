@@ -44,13 +44,13 @@ https://start.spring.io/
 
 3) H2 Console 접속: http://localhost:8080/h2-console/ 
 
-![image-20210823225225936](C:\Users\HAVVING\AppData\Roaming\Typora\typora-user-images\image-20210823225225936.png)
+<img src="src/main/resources/img/h2.png" height="300"></img>
 
 
 
 자동으로 쿼리문이 실행되어 데이터가 추가된 것을 확인
 
-![image-20210823225458988](C:\Users\HAVVING\AppData\Roaming\Typora\typora-user-images\image-20210823225458988.png)
+<img src="src/main/resources/img/h2-console.png" height="300"></img>
 
 
 

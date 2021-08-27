@@ -66,8 +66,17 @@ https://start.spring.io/
 2) Repository
 3) 로그인 API
 
+* 토큰이 정상적으로 리턴된 것을 확인
+
+<img src="src/main/resources/img/login.png" height="300"></img>
+
+<img src="src/main/resources/img/login_token.png" height="300"></img>
+
+
 #### 4일차 (8/26)
 
 1) 회원가입 API
 2) 권한검증 확인
+
+
 

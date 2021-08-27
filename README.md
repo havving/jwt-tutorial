@@ -53,4 +53,30 @@ https://start.spring.io/
 <img src="src/main/resources/img/h2-console.png" height="300"></img>
 
 
+#### 2일차 (8/24)
+
+1) JWT 설정 추가
+2) JWT 관련 코드 개발
+3) Security 설정 추가
+
+
+#### 3일차 (8/25)
+
+1) DTO
+2) Repository
+3) 로그인 API
+
+* 토큰이 정상적으로 리턴된 것을 확인
+
+<img src="src/main/resources/img/login.png" height="300"></img>
+
+<img src="src/main/resources/img/login_token.png" height="300"></img>
+
+
+#### 4일차 (8/26)
+
+1) 회원가입 API
+2) 권한검증 확인
+
+
 

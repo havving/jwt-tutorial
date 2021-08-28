@@ -78,5 +78,14 @@ https://start.spring.io/
 1) 회원가입 API
 2) 권한검증 확인
 
+* 회원가입 API에 대한 응답이 정상적으로 리턴되는 것을 확인
+<img src="src/main/resources/img/signup.png" height="300"></img>
+
+<img src="src/main/resources/img/signup_result.png" height="300"></img>
+
+* 데이터베이스에 유저가 등록된 것을 확인
+
+<img src="src/main/resources/img/db.png" height="300"></img>
+
 
 

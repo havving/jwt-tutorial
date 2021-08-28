@@ -81,7 +81,7 @@ https://start.spring.io/
 * 회원가입 API에 대한 응답이 정상적으로 리턴되는 것을 확인
 <img src="src/main/resources/img/signup.png" height="300"></img>
 
-<img src="src/main/resources/img/signup_result.png"></img>
+<img src="src/main/resources/img/signup_result.png" height="300"></img>
 
 * 데이터베이스에 유저가 등록된 것을 확인
 
